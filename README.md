@@ -177,7 +177,7 @@ All endpoints return JSON responses. Example success response:
     }
   ],
   "aU": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/420/420/AvatarHeadshot/Png/noFilter"
-}}
+}
 ```
 
 ## Error Handling
